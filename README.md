@@ -1,6 +1,6 @@
 ---
-title: Strapi
-description: A self-hosted version of Strapi using a Postgres database
+title: Backend chacarita
+description: HC Soluciones, genera un backend de la web de chacarita
 tags:
   - strapi
   - postgresql
