@@ -1,30 +1,31 @@
 {
-  "name": "strapi",
-  "private": true,
-  "version": "1.0.2",
-  "description": "A Strapi backend chacarita",
-  "scripts": {
-    "develop": "strapi develop",
-    "start": "strapi start",
-    "build": "strapi build",
-    "strapi": "strapi"
-  },
-  "devDependencies": {},
-  "dependencies": {
-    "@strapi/plugin-i18n": "4.7.0",
-    "@strapi/plugin-users-permissions": "4.7.0",
-    "@strapi/strapi": "4.7.0",
-    "pg": "8.8.0"
-  },
-  "author": {
-    "name": "HC Soluciones"
-  },
-  "strapi": {
-    "uuid": "35d7a084-3088-4d0b-869e-f503693ee8e5"
-  },
-  "engines": {
-    "node": ">=16.x.x",
-    "npm": ">=6.0.0"
-  },
-  "license": "MIT"
-}
+    "name": "strapi",
+    "private": true,
+    "version": "1.0.2",
+    "description": "A Strapi backend chacarita",
+    "scripts": {
+      "develop": "strapi develop",
+      "start": "strapi start",
+      "build": "strapi build",
+      "strapi": "strapi"
+    },
+    "devDependencies": {},
+    "dependencies": {
+      "@strapi/plugin-i18n": "4.7.0",
+      "@strapi/plugin-users-permissions": "4.7.0",
+      "@strapi/strapi": "4.7.0",
+      "pg": "8.8.0"
+    },
+    "author": {
+      "name": "HC Soluciones"
+    },
+    "strapi": {
+      "uuid": "35d7a084-3088-4d0b-869e-f503693ee8e5"
+    },
+    "engines": {
+      "node": ">=16.x.x",
+      "npm": ">=6.0.0"
+    },
+    "license": "MIT"
+  }
+  
