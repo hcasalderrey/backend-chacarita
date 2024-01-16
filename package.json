@@ -1,4 +1,5 @@
-{
+ 
+{  
     "name": "strapi",
     "private": true,
     "version": "1.0.2",
@@ -23,9 +24,9 @@
       "uuid": "35d7a084-3088-4d0b-869e-f503693ee8e5"
     },
     "engines": {
+ 
       "node": ">=16.x.x",
-      "npm": ">=6.0.0"
+        "npm": ">=6.0.0"
     },
     "license": "MIT"
-  }
-  
+}
